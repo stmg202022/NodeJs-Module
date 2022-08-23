@@ -1,5 +1,5 @@
 
-//=========================importing syntax for common js module====================
+//=========================importing syntax for common node js module====================
 
 // const simple2 = require("./module_second");
 
