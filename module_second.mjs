@@ -15,7 +15,7 @@
 //          "type": "module",
 //                          on package.json......
 
-// Can import and export 2 or mare than two functiion in thid ES6 module
+// Can import and export 2 or mare than two functiion in this ES6 module
 
 //Can create default function on it
 
